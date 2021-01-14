@@ -4,10 +4,7 @@
 
 
 body {
-	/*background:#e0e6d3;*/
-	/*background-image:url( 'images/materials/page_bg.gif' );*/
-	/*background-repeat:repeat-x;*/
-    background-image:url( 'images/materials/bg_blossom.jpg' );
+    background-image:url( 'images/materials/bg_cafe.jpg' );
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: center center;              
