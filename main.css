@@ -7,7 +7,10 @@ body {
 	/*background:#e0e6d3;*/
 	/*background-image:url( 'images/materials/page_bg.gif' );*/
 	/*background-repeat:repeat-x;*/
-	background-image:url( 'images/materials/bg_blossom.jpg' );
+    background-image:url( 'images/materials/bg_blossom.jpg' );
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center;              
 	margin: 0 auto;
 	font-family:'Inconsolata',georgia,times,serif,'Annie Use Your Telescope','Lobster','Fascinate Inline','Gloria Hallelujah','Pacifico','Shadows Into Light','Bilbo','Calligraffitti';
 	height:2000px;
